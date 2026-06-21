@@ -1,0 +1,5 @@
+User login successful
+Failed login attempt from 192.168.1.100
+Access denied for guest account
+System update completed
+Unauthorized access attempt detected
